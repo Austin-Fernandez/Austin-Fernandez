@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Austin Fernandez
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 Interested in Data Science and ML
+- 🌱 Currently learning Python
 - 💞️ I’m looking to collaborate on eady projects to build experience and comfortability.
 - 📫 How to reach me ...
+  - Austin.fernandez2098@gmail.com
 
 <!---
 Austin-Fernandez/Austin-Fernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
